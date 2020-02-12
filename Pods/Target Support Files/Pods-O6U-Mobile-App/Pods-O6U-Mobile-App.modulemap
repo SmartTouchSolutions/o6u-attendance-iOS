@@ -1,0 +1,6 @@
+framework module Pods_O6U_Mobile_App {
+  umbrella header "Pods-O6U-Mobile-App-umbrella.h"
+
+  export *
+  module * { export * }
+}
